@@ -1,0 +1,16 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "latest",
+    "body-parser": "latest",
+    "ejs": "latest",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
